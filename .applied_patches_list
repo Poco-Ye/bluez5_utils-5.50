@@ -1,0 +1,16 @@
+/home/yb/3308_debug/buildroot/package/bluez5_utils/0001-tools-bneptest.c-Remove-include-linux-if_bridge.h-to.patch
+/home/yb/3308_debug/buildroot/package/bluez5_utils/0002-fix-authentication-err-for-echo.patch
+/home/yb/3308_debug/buildroot/package/bluez5_utils/0003-Adapt-to-base-and-dueros-ble-wifi-config.patch
+/home/yb/3308_debug/buildroot/package/bluez5_utils/0004-bluetoothd-not-load-battery-plugin.patch
+/home/yb/3308_debug/buildroot/package/bluez5_utils/0005-profiles-audio-add-GetPlayStatus-and-PosChange-api.patch
+/home/yb/3308_debug/buildroot/package/bluez5_utils/0006-bluez5-fix-obex-permissions.patch
+/home/yb/3308_debug/buildroot/package/bluez5_utils/0007-fix-dbus-s-uint64-int64-data-flush-memory-in-32bit-s.patch
+/home/yb/3308_debug/buildroot/package/bluez5_utils/0008-fix-D-Bus-failed-to-register-media-player-interface.patch
+/home/yb/3308_debug/buildroot/package/bluez5_utils/0009-hostname-Fix-unexpected-name-class-changed-issue.patch
+/home/yb/3308_debug/buildroot/package/bluez5_utils/0010-Policy-enable-AutoEnable.patch
+/home/yb/3308_debug/buildroot/package/bluez5_utils/0011-fix-support-indicate-and-notification-property-notif.patch
+/home/yb/3308_debug/buildroot/package/bluez5_utils/0012-not-load-hog-plugin.patch
+/home/yb/3308_debug/buildroot/package/bluez5_utils/0013-profiles-audio-add-avrcp-key-code-report.patch
+/home/yb/3308_debug/buildroot/package/bluez5_utils/0014-ble-server-send-notification-when-ccc-value-0x0003-e.patch
+/home/yb/3308_debug/buildroot/package/bluez5_utils/0015-ble-server-client-add-MTU-report.patch
+/home/yb/3308_debug/buildroot/package/bluez5_utils/0016-add-EirData-api.patch
